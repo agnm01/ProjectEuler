@@ -4,4 +4,4 @@ Welcome! Glad to have you here! This is where you will find solutions to all Pro
 
 Please make sure to use these solutions for fair purposes, to grow in your career as an engineer.
 
-Made with <3 by Gabriel Negreanu
+Made with :heart: by Gabriel Negreanu
